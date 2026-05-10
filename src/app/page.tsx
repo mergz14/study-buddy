@@ -63,8 +63,8 @@ export default function LandingPage() {
           <span style={{ fontFamily: "'Space Mono', monospace", fontSize: 14, fontWeight: 700, color: '#c4bcff' }}>STUDY.AI</span>
         </div>
         <div style={{ display: 'flex', gap: 12, alignItems: 'center' }}>
-          <Link href="/sign-in" className="ld-btn-ghost" style={{ padding: '8px 18px', fontSize: 14 }}>Sign in</Link>
-          <Link href="/sign-up" className="ld-btn-primary" style={{ padding: '8px 18px', fontSize: 14 }}>Get started free</Link>
+          <Link href="https://accounts.studybuddyai.academy/sign-in" className="ld-btn-ghost" style={{ padding: '8px 18px', fontSize: 14 }}>Sign in</Link>
+          <Link href="https://accounts.studybuddyai.academy/sign-up" className="ld-btn-primary" style={{ padding: '8px 18px', fontSize: 14 }}>Get started free</Link>
         </div>
       </nav>
 
@@ -82,8 +82,8 @@ export default function LandingPage() {
             Turn any topic or notes into quizzes, flashcards, essay practice and a personalised revision plan — in seconds.
           </p>
           <div className="ld-fade-3" style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
-            <Link href="/sign-up" className="ld-btn-primary">Start for free →</Link>
-            <Link href="/sign-in" className="ld-btn-ghost">I have an account</Link>
+            <Link href="https://accounts.studybuddyai.academy/sign-up" className="ld-btn-primary">Start for free →</Link>
+            <Link href="https://accounts.studybuddyai.academy/sign-in" className="ld-btn-ghost">I have an account</Link>
           </div>
           <div style={{ marginTop: 16, fontSize: 13, color: '#3d3860' }}>5 free sessions per day · no credit card required</div>
         </div>
@@ -123,7 +123,7 @@ export default function LandingPage() {
                 <span style={{ color: '#4fc38a', flexShrink: 0 }}>✓</span> {f}
               </div>
             ))}
-            <Link href="/sign-up" className="ld-btn-ghost" style={{ display: 'block', textAlign: 'center', marginTop: 24, width: '100%', padding: '12px' }}>Get started</Link>
+            <Link href="https://accounts.studybuddyai.academy/sign-up" className="ld-btn-ghost" style={{ display: 'block', textAlign: 'center', marginTop: 24, width: '100%', padding: '12px' }}>Get started</Link>
           </div>
 
           {/* Pro */}
@@ -137,7 +137,7 @@ export default function LandingPage() {
                 <span style={{ color: '#7c6af7', flexShrink: 0 }}>✓</span> {f}
               </div>
             ))}
-            <Link href="/sign-up" className="ld-btn-primary" style={{ display: 'block', textAlign: 'center', marginTop: 24, width: '100%', padding: '12px' }}>Upgrade to Pro →</Link>
+            <Link href="https://accounts.studybuddyai.academy/sign-up" className="ld-btn-primary" style={{ display: 'block', textAlign: 'center', marginTop: 24, width: '100%', padding: '12px' }}>Upgrade to Pro →</Link>
           </div>
         </div>
       </div>
@@ -146,7 +146,7 @@ export default function LandingPage() {
       <div style={{ textAlign: 'center', padding: '60px 40px 80px', borderTop: '1px solid #1e1b3a' }}>
         <h2 style={{ fontSize: 32, fontWeight: 700, color: '#e8e6ff', marginBottom: 12 }}>Ready to ace your exams?</h2>
         <p style={{ color: '#5a5580', marginBottom: 28, fontSize: 16 }}>Join students already using Study Buddy to revise smarter.</p>
-        <Link href="/sign-up" className="ld-btn-primary" style={{ fontSize: 16, padding: '14px 32px' }}>Create free account →</Link>
+        <Link href="https://accounts.studybuddyai.academy/sign-up" className="ld-btn-primary" style={{ fontSize: 16, padding: '14px 32px' }}>Create free account →</Link>
       </div>
 
       <div style={{ textAlign: 'center', padding: '20px', borderTop: '1px solid #1e1b3a', fontSize: 12, color: '#2d2660' }}>
